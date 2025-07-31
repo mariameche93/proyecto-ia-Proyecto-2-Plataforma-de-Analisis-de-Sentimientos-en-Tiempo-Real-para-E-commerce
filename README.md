@@ -13,8 +13,3 @@ Monitoreo automático de reseñas de productos y redes sociales para detectar pr
 - `docs/` – diagramas y especificaciones  
 - `docker/` – contenedores y orquestación  
 
-## Primeros pasos
-1. Clonar repo y cambiar a rama `dev`
-2. Crear entorno virtual
-3. Instalar dependencias: `pip install -r requirements.txt`
-4. Ejecutar notebook de prueba
