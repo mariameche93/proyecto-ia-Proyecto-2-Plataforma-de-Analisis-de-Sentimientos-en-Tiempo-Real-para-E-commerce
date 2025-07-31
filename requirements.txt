@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+transformers
+fastapi
+streamlit
+pytest
