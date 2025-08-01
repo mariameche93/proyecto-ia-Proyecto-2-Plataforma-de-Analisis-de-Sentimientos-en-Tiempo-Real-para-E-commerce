@@ -3,6 +3,8 @@
 **Objetivo**
 Monitoreo automático de reseñas de productos y redes sociales para detectar problemas de calidad y oportunidades de mejora.
 
+.....
+
 ## Estructura del repositorio
 - `data/` – datasets y scraping
 - `src/` – código fuente  
